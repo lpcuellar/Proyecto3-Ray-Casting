@@ -38,10 +38,10 @@ Pueden usar texturas que encuentren en internet.
 
 ## Resultados
 * Menú Principal
- * ![manu_result](https://user-images.githubusercontent.com/43117675/98500843-27a85b80-2213-11eb-9f56-c78672f33a3c.png)
+![manu_result](https://user-images.githubusercontent.com/43117675/98500843-27a85b80-2213-11eb-9f56-c78672f33a3c.png)
 
 * Juego Corriendo
- * ![game_result](https://user-images.githubusercontent.com/43117675/98500864-368f0e00-2213-11eb-8e7a-8d6e1cc84326.png)
+![game_result](https://user-images.githubusercontent.com/43117675/98500864-368f0e00-2213-11eb-8e7a-8d6e1cc84326.png)
 
 * Menú de Pausa
- * ![pause_result](https://user-images.githubusercontent.com/43117675/98500882-4149a300-2213-11eb-810d-7e97a1f52b35.png)
+![pause_result](https://user-images.githubusercontent.com/43117675/98500882-4149a300-2213-11eb-810d-7e97a1f52b35.png)
